@@ -31,6 +31,9 @@ public class Main {
         //capitalCities.clear();
 
         int Size = capitalCities.size();
+        
+        boolean flg = capitalCities.containsKey("England");
+        boolean flg2 = capitalCities.containsValue("London");
 
         // Print keys
         for (String i : capitalCities.keySet()) {
