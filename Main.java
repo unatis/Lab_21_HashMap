@@ -20,6 +20,7 @@ public class Main {
         capitalCities.put("Germany", "Berlin");
         capitalCities.put("Norway", "Oslo");
         capitalCities.put("USA", "Washington DC");
+        //capitalCities.put("USA", "XXX");
 
         System.out.println(capitalCities);
 
